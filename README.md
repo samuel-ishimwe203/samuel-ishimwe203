@@ -4,12 +4,12 @@ I'm a Full-Stack Developer and IT student at Tumba College of Technology in Rwan
 
 ## 🤩 About Me
 
-I specialize in JavaScript and enjoy working across both frontend and backend to build responsive, scalable, and user-friendly web applications. I focus on writing clean, maintainable, and efficient code. I recently participated in the Kubernetes African Developer Training Program, where I gained exposure to cloud and container technologies. I am highly motivated, consistent, and believe in learning by building practical, real-world projects.
+I specialize in JavaScript and enjoy working across both frontend and backend to build responsive, scalable, and user-friendly web applications. I focus on writing clean, maintainable, and efficient code. I recently participated in the Gym software company in Rwanda, Also The Kubernetes African Developer Training Program, where I gained exposure to cloud and container technologies. I am highly motivated, consistent, and believe in learning by building practical, real-world projects.
 
 ## 🛠 Technical Skills
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Libraries:** React, Tailwind CSS, Bootstrap, Node.js, Express
+- **Languages:** JavaScript, TypeScript, HTML, CSS , Java
+- **Frameworks & Libraries:** React, Tailwind CSS, Bootstrap, Spring Boot,Node.js, Express
 - **Databases:** PostgreSQL, MongoDB
 - **Tools:** Git, GitHub, VS Code, Figma
 
